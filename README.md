@@ -7,13 +7,13 @@
 <h2 align="center">¿What technologies do I use?</h2>
 <h3 align="center">Through my experience at the Henry Bootcamp, I have acquired essential skills and knowledge to take my career to new heights 🚀 As a result, I am proficient in key technologies such as:</h3>
 <ul>
-  <li>Javascript</li>
-  <li>React.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>PostgreSQL</li>
-  <li>Sequelize</li>
-  <li>GIT</li>
+  <li><strong>Javascript</strong></li>
+  <li><strong>React.js</strong></li>
+  <li><strong>Node.js</strong></li>
+  <li><strong>Express.js</strong></li>
+  <li><strong>PostgreSQL</strong></li>
+  <li><strong>Sequelize</strong></li>
+  <li><strong>GIT</strong></li>
  </ul>
 
 
