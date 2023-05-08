@@ -6,14 +6,14 @@
 <h3 align="center">My primary goal is to use my programming skills to make a positive impact on the world. <br> <br> The high demand for programming in the job market is not the only reason that motivates me. I am driven by my passion for expanding my horizons and exploring innovative solutions to problems that were previously considered solved.</h3>
 <h2 align="center">¿What technologies do I use?</h2>
 <h3 align="center">Through my experience at the Henry Bootcamp, I have acquired essential skills and knowledge to take my career to new heights 🚀 As a result, I am proficient in key technologies such as:</h3>
-<ul align="center">
-  <li align="center">Javascript</li>
-  <li align="center">React.js</li>
-  <li align="center">Node.js</li>
-  <li align="center">Express.js</li>
-  <li align="center">PostgreSQL</li>
-  <li align="center">Sequelize</li>
-  <li align="center">GIT</li>
+<ul>
+  <li>Javascript</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>PostgreSQL</li>
+  <li>Sequelize</li>
+  <li>GIT</li>
  </ul>
 
 
