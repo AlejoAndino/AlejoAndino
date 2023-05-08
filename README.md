@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejo Andino</h1>
 <h3 align="center">Greetings! Thank you for visiting my GitHub profile. My name is Alejo, I am a Full Stack Developer programmer graduated from Henry and I am extremely passionate about programming. When I am not deeply engrossed in studying or coding, you can find me indulging in my favorite hobbies, such as training or playing soccer. I thoroughly enjoy creating useful and entertaining programs, and I also love listening to various genres of music, spending quality time with friends and exploring new things in life.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejoandino&label=Profile%20views&color=0e75b6&style=flat" alt="alejoandino" /> </p>
 
 <h3 align="left">Connect with me:</h3>
