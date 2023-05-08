@@ -3,7 +3,7 @@
 <h2 align="center">¿Who I am?</h2>
 <h3 align="center">My name is Alejo, I am a Full Stack Developer programmer graduated from Henry and I am extremely passionate about programming. When I am not deeply engrossed in studying or coding, you can find me indulging in my favorite hobbies, such as training or playing soccer. I thoroughly enjoy creating useful and entertaining programs, and I also love listening to various genres of music, spending quality time with friends and exploring new things in life.</h3>
 <h2 align="center">¿Who am I addressing?</h2>
-<h3 align="center">My primary goal is to use my programming skills to make a positive impact on the world. <br> The high demand for programming in the job market is not the only reason that motivates me. I am driven by my passion for expanding my horizons and exploring innovative solutions to problems that were previously considered solved.</h3>
+<h3 align="center">My primary goal is to use my programming skills to make a positive impact on the world. <br> <br> The high demand for programming in the job market is not the only reason that motivates me. I am driven by my passion for expanding my horizons and exploring innovative solutions to problems that were previously considered solved.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejoandino&label=Profile%20views&color=0e75b6&style=flat" alt="alejoandino" /> </p>
