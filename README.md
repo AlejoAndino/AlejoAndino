@@ -8,10 +8,14 @@
 <h3 align="center">Through my experience at the Henry Bootcamp, I have acquired essential skills and knowledge to take my career to new heights 🚀 As a result, I am proficient in key technologies such as:</h3>
 <ul>
   <li><strong>Javascript</strong></li>
+  <li><strong>Typescript</strong></li>
   <li><strong>React.js</strong></li>
+  <li><strong>NextJS</strong></li>
+  <li><strong>Tailwind CSS</strong></li>
   <li><strong>Node.js</strong></li>
   <li><strong>Express.js</strong></li>
   <li><strong>PostgreSQL</strong></li>
+  <li><strong>MongoDB</strong></li>
   <li><strong>Sequelize</strong></li>
   <li><strong>GIT</strong></li>
  </ul>
