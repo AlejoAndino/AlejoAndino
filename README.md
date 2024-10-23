@@ -17,7 +17,7 @@
   <li><strong>PostgreSQL</strong></li>
   <li><strong>MongoDB</strong></li>
   <li><strong>Sequelize</strong></li>
-  <li><strong>GIT</strong></li>
+  <li><strong>Git Flow</strong></li>
  </ul>
 
 
