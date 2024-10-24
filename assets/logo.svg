@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="694" height="259" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="c" x1="0.91" x2="-0.45" y1="0.43" y2="0.43">
+   <stop stop-color="#3C60FF"/>
+   <stop offset="1" stop-color="#7939FF"/>
+  </linearGradient>
+  <clipPath id="a">
+   <path d="m0,0l694,0l0,259l-694,0l0,-259z" fill="#fff" id="svg_1"/>
+  </clipPath>
+  <linearGradient id="svg_13">
+   <stop id="jq_stop_4518" offset="0" stop-color="#fc0000"/>
+   <stop id="jq_stop_9993" offset="1" stop-color="#03ffff"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#a)" id="svg_2">
+   <path d="m270.52,46.88l0,42.12l-10.26,0l0,-17.34l-15.96,0l0,17.34l-10.26,0l0,-42.12l10.26,0l0,16.5l15.96,0l0,-16.5l10.26,0zm20.97,0l0,42.12l-10.26,0l0,-42.12l10.26,0zm21.78,32.64l-6.66,17.22l-6.54,0l3.48,-17.22l9.72,0zm35.76,-32.64l0,42.12l-10.26,0l0,-42.12l10.26,0zm52.97,34.68l-15.72,0l-2.52,7.44l-10.74,0l15.24,-42.12l11.88,0l15.24,42.12l-10.86,0l-2.52,-7.44zm-2.64,-7.92l-5.22,-15.42l-5.16,15.42l10.38,0zm71.66,-26.76l0,42.12l-10.26,0l0,-25.26l-9.42,25.26l-8.28,0l-9.48,-25.32l0,25.32l-10.26,0l0,-42.12l12.12,0l11.82,29.16l11.7,-29.16l12.06,0z" fill="url(#c)" id="svg_4" transform="matrix(1 0 0 1 0 0)"/>
+   <text fill="#5532ff" font-family="Courier" font-size="144" id="svg_5" stroke="url(#svg_13)" stroke-width="0" text-anchor="middle" x="348" xml:space="preserve" y="208.5">ALEJO</text>
+  </g>
+ </g>
+</svg>

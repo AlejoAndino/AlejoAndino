@@ -1,41 +1,108 @@
-<h1 align="center">Hi 👋, I'm Alejo Andino</h1>
-<h3 align="center">Greetings! Thank you for visiting my GitHub profile.</h3>
-<h2 align="center">¿Who I am?</h2>
-<h3 align="center">My name is Alejo, I am a Full Stack Developer programmer graduated from Henry and I am extremely passionate about programming. When I am not deeply engrossed in studying or coding, you can find me indulging in my favorite hobbies, such as training or playing soccer. I thoroughly enjoy creating useful and entertaining programs, and I also love listening to various genres of music, spending quality time with friends and exploring new things in life.</h3>
-<h2 align="center">¿Who am I addressing?</h2>
-<h3 align="center">My primary goal is to use my programming skills to make a positive impact on the world. <br> <br> The high demand for programming in the job market is not the only reason that motivates me. I am driven by my passion for expanding my horizons and exploring innovative solutions to problems that were previously considered solved.</h3>
-<h2 align="center">¿What technologies do I use?</h2>
-<h3 align="center">Through my experience at the Henry Bootcamp, I have acquired essential skills and knowledge to take my career to new heights 🚀 As a result, I am proficient in key technologies such as:</h3>
-<ul>
-  <li><strong>Javascript</strong></li>
-  <li><strong>Typescript</strong></li>
-  <li><strong>React.js</strong></li>
-  <li><strong>NextJS</strong></li>
-  <li><strong>Tailwind CSS</strong></li>
-  <li><strong>Node.js</strong></li>
-  <li><strong>Express.js</strong></li>
-  <li><strong>PostgreSQL</strong></li>
-  <li><strong>MongoDB</strong></li>
-  <li><strong>Sequelize</strong></li>
-  <li><strong>Git Flow</strong></li>
- </ul>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejoandino&label=Profile%20views&color=0e75b6&style=flat" alt="alejoandino" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+	<a href="https://cosmoart.vercel.app">
+		<img src="assets/logo.svg" alt="Hola, soy Alejo" width="55%"/>
+  	</a>
+</div>
+<div align='center'>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+</div>
+<h2 align="center">¿Quien soy?</h2>
+<h4 align="center">Soy un Full Stack Web Developer orientado a Front End con más de 1 año de experiencia en el desarrollo de aplicaciones web utilizando tecnologías como: <br/> <strong>Next.js, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.</strong> <br/> <br/> Me apasiona crear <strong>aplicaciones eficientes y colaborativas</strong>, y disfruto fomentar un ambiente de trabajo donde todos se sientan motivados y valorados. <br/>Estoy en busca de un equipo que comparta mi pasión por la tecnología y el éxito del proyecto. Si buscas a alguien que se integre bien y ofrezca soluciones efectivas, <strong>¡Contactame!</strong></h4>
+<br/>
+<h2 align="center">¿A quien me dirijo?</h2>
+<h4 align="center">Me dirijo a empresas y colaboradores que comparten mi visión de utilizar la programación para generar un impacto positivo en el mundo.
+Mi motivación va más allá de la alta demanda en el mercado laboral; estoy impulsado por la <strong>pasión de expandir mis horizontes</strong> y <strong>explorar soluciones innovadoras</strong> a problemas que antes se consideraban resueltos.</h4>
 <br>
-<p align="left">
-<a href="https://linkedin.com/in/alejo-andino-9ba353241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-andino-9ba353241" height="30" width="40" /></a>
+<br>
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+
+<br>
+<p align="center">
+
+- **Lenguajes**:<br/>
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>   
+    
+- **Front-End Development**:
+
+  ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+- **Backend Development**:
+
+  ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
+
+- **Cloud Hosting**:
+
+  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br/>
+
+- **Softwares and Tools**:
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+- **Extras**:
+
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 </p>
-<br>
-<p>Gmail: <a href="https://mail.google.com/">aleandino.cbaa@gmail.com</a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<br/>
+<br/>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejoandino&show_icons=true&locale=en&layout=compact" alt="alejoandino" /></p>
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
+
+<div align='center'>
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>
+</div>
+<h2 align="center">Github Stats</h2>
 
 
+<table align='center'>
+	<tr>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api?username=AlejoAndino&show_icons=true&theme=github_dark" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoAndino&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
+		</td>
+	</tr>
+</table>
 
+<a href="https://www.linkedin.com/in/alejoandino" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="aleandino.cbaa@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+</a>
