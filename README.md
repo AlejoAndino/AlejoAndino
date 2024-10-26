@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://cosmoart.vercel.app">
+	<a href="https://github.com/AlejoAndino">
 		<img src="assets/logo.svg" alt="Hola, soy Alejo" width="55%"/>
   	</a>
 </div>
