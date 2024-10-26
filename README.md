@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://github.com/AlejoAndino">
+	<a href="https://portfolio-alejoandino.vercel.app/">
 		<img src="assets/logo.svg" alt="Hola, soy Alejo" width="55%"/>
   	</a>
 </div>
