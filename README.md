@@ -11,7 +11,7 @@
 <br/>
 <h2 align="center">¿A quien me dirijo?</h2>
 <h4 align="center">Me dirijo a empresas y colaboradores que comparten mi visión de utilizar la programación para generar un impacto positivo en el mundo.
-Mi motivación va más allá de la alta demanda en el mercado laboral; estoy impulsado por la <strong>pasión de expandir mis horizontes</strong> y <strong>explorar soluciones innovadoras</strong> a problemas que antes se consideraban resueltos.</h4>
+Mi motivación va más allá de la alta demanda en el mercado laboral; estoy impulsado por la <strong>pasión de expandir mis horizontes</strong> y <strong>explorar soluciones innovadoras</strong> a problemas que antes se consideraban resueltos.</h4> 
 <br>
 <br>
 <div align='center'>
